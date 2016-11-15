@@ -1,0 +1,13 @@
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\ISMTemp\ISMTemp\bin\Debug\ISMTemp.exe.config
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\ISMTemp\ISMTemp\bin\Debug\ISMTemp.exe
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\ISMTemp\ISMTemp\bin\Debug\ISMTemp.pdb
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\ISMTemp\ISMTemp\obj\Debug\ISMTemp.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\ISMTemp\ISMTemp\obj\Debug\MainWindow.baml
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\ISMTemp\ISMTemp\obj\Debug\MainWindow.g.cs
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\ISMTemp\ISMTemp\obj\Debug\App.g.cs
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\ISMTemp\ISMTemp\obj\Debug\ISMTemp_MarkupCompile.cache
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\ISMTemp\ISMTemp\obj\Debug\ISMTemp.g.resources
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\ISMTemp\ISMTemp\obj\Debug\ISMTemp.Properties.Resources.resources
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\ISMTemp\ISMTemp\obj\Debug\ISMTemp.csproj.GenerateResource.Cache
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\ISMTemp\ISMTemp\obj\Debug\ISMTemp.exe
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\ISMTemp\ISMTemp\obj\Debug\ISMTemp.pdb

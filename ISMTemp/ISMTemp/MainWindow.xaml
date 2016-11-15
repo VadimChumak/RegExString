@@ -1,0 +1,18 @@
+﻿<Window x:Class="ISMTemp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="927.985">
+    <Grid>
+        <Button Content="Weather" HorizontalAlignment="Left" Margin="84,63,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Label x:Name="Label_temp" Content="" HorizontalAlignment="Left" Margin="250,63,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Label_mm" Content="" HorizontalAlignment="Left" Margin="250,94,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Label_vol" Content="" HorizontalAlignment="Left" Margin="250,125,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Label_speed" Content="" HorizontalAlignment="Left" Margin="250,156,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Label_vater" Content="" HorizontalAlignment="Left" Margin="250,187,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Money" Content="Money" HorizontalAlignment="Left" Margin="551,63,0,0" VerticalAlignment="Top" Width="75" Click="Money_Click"/>
+        <Label x:Name="Label_dol" Content="" HorizontalAlignment="Left" Margin="707,63,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Label_rub" Content="" HorizontalAlignment="Left" Margin="707,94,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Label_euro" Content="" HorizontalAlignment="Left" Margin="707,125,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
